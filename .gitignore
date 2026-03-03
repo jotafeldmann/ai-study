@@ -1,0 +1,54 @@
+# Node
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+*.log
+
+# Runtime files
+pids
+*.pid
+*.pid.lock
+*.seed
+
+# Dependency managers / caches
+.pnp
+.pnp.js
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.yarnrc.yml
+.pnpm-store/
+node_releases/
+
+# Build output
+dist/
+build/
+out/
+.next/
+.expo/
+.parcel-cache/
+.cache/
+
+# Coverage
+coverage/
+.nyc_output/
+
+# Environment files
+.env
+.env.*.local
+
+# IDEs / editors / OS
+.idea/
+.vscode/
+*.sublime-workspace
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
