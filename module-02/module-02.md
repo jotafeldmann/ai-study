@@ -19,6 +19,9 @@ This module contains a minimal TensorFlow.js example for Node.js showing a compl
 
 1. Install dependencies:
 
+- Node v22
+- npm
+
 ```
 npm install
 ```
@@ -28,5 +31,6 @@ npm install
 ```
 npm start
 ```
+
 
 
